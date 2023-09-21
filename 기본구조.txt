@@ -1,0 +1,18 @@
+오전 8:30 2023-09-22
+
+
+기본구조
+<html>
+<head>
+   <title>
+   <meta>
+</head>
+<body>
+<h1>html</h1>
+<ol>
+  <li> </li>
+  <li> </li>
+</ol>
+</body>
+</html>
+
